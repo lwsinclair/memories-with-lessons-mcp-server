@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/t1nker-1220-memories-with-lessons-mcp-server-badge.png)](https://mseep.ai/app/t1nker-1220-memories-with-lessons-mcp-server)
+
 # Knowledge Graph Memory Server
 [![smithery badge](https://smithery.ai/badge/@T1nker-1220/memories-with-lessons-mcp-server)](https://smithery.ai/server/@T1nker-1220/memories-with-lessons-mcp-server)
 
